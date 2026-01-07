@@ -12,7 +12,7 @@ export function Footer() {
   return (
     <footer className="bg-bg-default px-4 py-8 text-white">
       <div className="mx-auto max-w-6xl">
-        <nav className="mb-8 flex justify-center space-x-6">
+        {/* <nav className="mb-8 flex justify-center space-x-6">
           <Link
             href="/discord"
             className="transition-colors hover:text-gray-300"
@@ -31,7 +31,7 @@ export function Footer() {
           <Link href="/shop" className="transition-colors hover:text-gray-300">
             Shop
           </Link>
-        </nav>
+        </nav> */}
 
         <div className="mt-10">
           <div className="flex flex-wrap justify-center gap-6">
@@ -48,8 +48,8 @@ export function Footer() {
                 height={40}
               />
             </a>
-            <a
-              href="https://www.youtube.com/@0xAquaWolf"
+            {/* <a
+              href="https://www.youtube.com/watch?v=tadUeiNe5-g"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -60,7 +60,7 @@ export function Footer() {
                 width={40}
                 height={40}
               />
-            </a>
+            </a> */}
             <a
               href="https://github.com/ShirleyLe3"
               target="_blank"

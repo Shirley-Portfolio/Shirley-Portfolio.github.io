@@ -10,17 +10,17 @@ export default function HeroCTA() {
           </div>
         </div> */}
         <div className="hero-gradient-text text-center text-[10vw] font-bold leading-[11vw] lg:text-left lg:text-[4vw] lg:leading-[5vw] xl:text-[4.5vw] xl:leading-tight">
-          Shirley Lee  Computer Engineer
+          {/* Banner Text Edit */}
         </div>
         <div className="grid grid-cols-2 justify-center gap-4 lg:justify-start">
           <a
-            href="https://www.linkedin.com/in/shirley--lee"
+            href="https://gmuedu-my.sharepoint.com/:b:/g/personal/slee383_gmu_edu/IQDLmVkU4-YMRr8sBvgHJ-C_AY2k_IljM9KVyvm1e0cLyp8?e=u1afmf"
             className="grid place-items-center rounded-full bg-white py-4 text-center text-sm text-black shadow-cta transition-all hover:bg-transparent hover:text-white hover:shadow-alt-cta xl:px-6 xl:py-3 xl:text-lg"
           >
             Download CV
           </a>
           <a
-            href="mailto:Shirley.tien.lee0@gmail.com"
+            href="mailto:Shirley.tien.lee@gmail.com"
             className="grid place-items-center rounded-full py-4 text-center text-sm text-white shadow-alt-cta transition-all hover:bg-white hover:text-black hover:shadow-cta xl:px-8 xl:py-3 xl:text-lg"
           >
            Email Me

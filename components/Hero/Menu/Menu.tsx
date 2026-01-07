@@ -29,12 +29,12 @@ export default function Menu() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [navMenu, setNavMenu] = useState<NavItem[]>([
     { name: 'Home', href: '/', isActive: true },
-    { name: 'Projects', href: '/#projects', isActive: false },
     { name: 'Portfolio', href: "https://shirley-software-solutions.github.io/project-embedded/embedded.html", isActive: false },
     { name: 'LinkedIn', href: "https://www.linkedin.com/in/shirley--lee/", isActive: false },
-    { name: 'Blog', href: '/posts', isActive: false },
+    { name: 'Projects', href: "https://github.com/ShirleyLe3", isActive: false },
+    // { name: 'Research', href: '/posts', isActive: false },
     // { name: 'Videos', href: '/#videos', isActive: false },
-    { name: 'About', href: '/#about', isActive: false },
+    { name: 'About', href: "https://shirleyle.com/", isActive: false },
   ]);
 
   const setActiveNavItem = (selectedName: string) => {
@@ -61,7 +61,7 @@ export default function Menu() {
                 width={25}
                 height={25}
               /> */}
-              <div className="text-lg font-semibold text-white">Software Engineer</div>
+              <div className="text-lg font-semibold text-white">Shirley Lee</div>
             </Link>
           </div>
           <div className="flex lg:hidden">
@@ -153,7 +153,7 @@ export default function Menu() {
                   <div className="mt-10 grid gap-10">
                     <div className="align-center flex flex-1 justify-center gap-10">
                       <a
-                        href="https://twitter.com/0xAquaWolf"
+                        href="https://twitter.com/ShirleyL___"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -166,7 +166,7 @@ export default function Menu() {
                       </a>
                       <a
                         className="grid items-center"
-                        href="https://www.youtube.com/@0xAquaWolf"
+                        href="https://calendly.com/shirley-lee10100/30min"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -192,7 +192,7 @@ export default function Menu() {
                     </div>
                     <div className="align-center flex justify-center gap-10">
                       <a
-                        href="https://www.instagram.com/_0xAquaWolf"
+                        href="https://github.com/ShirleyLe3/About-Me"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="grid items-center"
@@ -200,7 +200,7 @@ export default function Menu() {
       
                       </a>
                       <a
-                        href="https://www.linkedin.com/in/0xAquaWolf"
+                        href="https://www.linkedin.com/in/shirley--lee"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="grid items-center"

@@ -23,15 +23,15 @@ export default function Home() {
     <main className="bg-transparent">
       <Hero />
       <LogoCloud />
-      <YoutubeGrid />
-      <Stats />
-      <YoutubeVideos />
-      <WavyBackgroundDemo />
+      {/* <YoutubeGrid /> */}
+      {/* <Stats /> */}
+      {/* <YoutubeVideos /> */}
       <AboutMe />
       <Projects />
-      <SecondQuote />
-      <FeaturedBlogs />
-      <TheEnd />
+      {/* <SecondQuote /> */}
+      {/* <FeaturedBlogs /> */}
+      <WavyBackgroundDemo />
+      {/* <TheEnd /> */}
       <Footer />
     </main>
   );

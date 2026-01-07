@@ -12,7 +12,7 @@ export default function SecondQuote() {
             Simplicity is the ultimate sophistication.
           </div>
           <div className="mt-2 text-lg font-extralight text-white/50 lg:text-2xl">
-            - Leonardo Da Vinci
+            - 
           </div>
         </div>
         <div className="z-5 relative">

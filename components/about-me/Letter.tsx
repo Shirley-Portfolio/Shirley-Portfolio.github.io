@@ -17,7 +17,7 @@ export default function Letter() {
             <p>Let&apos;s build the future together.</p>
             <div className="relative flex flex-col items-center gap-2">
               <div className="self-start">
-                Wholeness & Balanced Vibrations 🙏
+                Engineering and Computing
               </div>
             </div>
             <div className="mb-10 font-handwriting text-4xl lg:text-6xl">
@@ -29,10 +29,10 @@ export default function Letter() {
               </div>
               <div className="lg:ml-4">
                 <div className="text-xl font-semibold text-white lg:text-2xl">
-                  0xAquawolf
+                  Shirley Lee
                 </div>
                 <div className="text-[12px] lg:text-lg">
-                  Computer Engineer
+                  Engineer
                 </div>
               </div>
             </div>

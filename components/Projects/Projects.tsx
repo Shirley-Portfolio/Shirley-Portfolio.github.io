@@ -27,8 +27,9 @@ export const projectsData: Project[] = [
     tags: ['Python', 'ROS', 'Machine Learning', 'Rasberry Pi'],
     slug: 'ai-powered-trading-bot',
     links: [
-      { title: 'Live Demo', url: 'https://trading-bot.demo' },
-      { title: 'GitHub', url: 'https://github.com/username/trading-bot' },
+      { title: 'GitHub', url: 'https://github.com/GMU-ASRC' },
+      { title: 'Video', url: 'https://shirley-le3-github-io.vercel.app/2/index.html' },
+
     ],
     fullDescription:
       '## Problem\n\n' +

@@ -93,7 +93,8 @@ export default function Menu() {
             ))}
           </div>
           <div className="hidden gap-4 lg:flex lg:flex-1 lg:justify-end">
-            <ConnectButton />
+            {/* Connect Wallet Button needed to be removed. Perhaps can add another API card/form here later */}
+            {/* <ConnectButton /> */}
           </div>
         </nav>
         <Dialog
@@ -106,7 +107,7 @@ export default function Menu() {
             <div className="relative z-50">
               <div className="flex items-center justify-between">
                 <a href="#" className="-m-1.5 p-1.5">
-                  <span className="sr-only">0xAquaWolf</span>
+                  <span className="sr-only">Shirley</span>
                   <div className="flex items-center gap-2">
                     {/* <Image
                       src="/images/png/aquawolf-logo.png"

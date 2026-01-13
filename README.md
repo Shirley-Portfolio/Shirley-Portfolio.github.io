@@ -1,47 +1,7 @@
-<h1 align="center">Portfolio & Blog</h3>
+<h1 align="center">Project Portfolio</h3>
 
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<div align="center">
-<!-- PROJECT SHIELDS -->
-<img src="https://img.shields.io/github/forks/0xAquaWolf/portfolio.svg?style=for-the-badge" alt="Forks">
-<img src="https://img.shields.io/github/stars/0xAquaWolf/portfolio.svg?style=for-the-badge" alt="Stars">
-<img src="https://img.shields.io/github/issues/0xAquaWolf/portfolio.svg?style=for-the-badge" alt="Issues">
-<img src="https://img.shields.io/github/license/0xAquaWolf/portfolio.svg?style=for-the-badge" alt="License">
-
-</div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
-  <p align="center">
-  For many years i dreamed of a smooth and modern website to showcase everything that i have learned after 8 years, this is my love letter to Web Developement as a Full-Stack Engineer with a passion for UI/UX design.
-    <br />
-    <a href="https://0xAquaWolf.com">View Demo</a>
-    ·
-    <a href="https://github.com/0xAquaWolf/portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/0xAquaWolf/portfolio/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-
-<h2 align="center">About This Project</h3>
-
-[![Portfolio Screen Shot][product-screenshot]](https://0xaquawolf.com)
-
-This is my personal portfolio and blog website. It showcases my projects, skills, and thoughts on various topics in the tech industry. The site is built with modern web technologies to ensure a smooth, responsive, and visually appealing experience for visitors.
-
-Key Features:
-
-- Responsive design that looks great on both desktop and mobile devices
-- Portfolio section to showcase my projects with detailed descriptions
-- Blog section for sharing my thoughts and experiences in the tech world
-- Dark mode support for comfortable viewing in any lighting condition
-- Fast loading times and optimized performance
 
 <br>
 <h3 align="center">Built With</h3>
@@ -178,14 +138,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the GPL License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-
-## Contact
-
-Twitter / x - [@0xAquaWolf](https://twitter.com/0xAquaWolf)
-
-[Aquawolf Academy Discord](https://discord.gg/wzPBjEcn87)
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
@@ -198,6 +150,7 @@ Twitter / x - [@0xAquaWolf](https://twitter.com/0xAquaWolf)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Bun Documentation](https://bun.sh/docs)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
+- Template [@0xAquaWolf](https://twitter.com/0xAquaWolf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,16 +183,5 @@ Twitter / x - [@0xAquaWolf](https://twitter.com/0xAquaWolf)
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
 
-## Star History
 
-<a href="https://star-history.com/#0xAquaWolf/portfolio&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
- </picture>
-</a>
 
-## Farewell
-
-Wholeness and balanced Vibrations 🙌
